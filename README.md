@@ -1,6 +1,3 @@
-# Money_Converter
-A simple, responsive money converter built with HTML, CSS and JavaScript that converts amounts between currencies using live/exchange-rate input and a clean UI.
-
 # 💱 Currency Converter  
 
 A simple and responsive **Currency Converter** built with **HTML, CSS, and JavaScript**.  
@@ -14,7 +11,8 @@ This project allows users to quickly convert one currency into another using rea
 - Fetches **live exchange rates** using an API.  
 
 ## 🖼️ Preview  
-![Currency Converter Screenshot](./screenshot.png)  
+<img width="515" height="626" alt="image" src="https://github.com/user-attachments/assets/5df36172-d354-4a5c-8947-22c74a6d4f8a" />
+ 
 
 ## ⚙️ Tech Stack  
 - **HTML5** – for the structure  
